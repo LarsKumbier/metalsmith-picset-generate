@@ -29,8 +29,8 @@
   },
   "homepage": "https://github.com/AnthonyAstige/metalsmith-picset-generate#readme",
   "dependencies": {
-    "lodash": "^4.17.4",
-    "sharp": "^0.17.2",
+    "lodash": "^4.17.11",
+    "sharp": "^0.21.2",
     "shrinkwrap": "^0.4.0"
   }
 }
